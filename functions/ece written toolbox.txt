@@ -1,0 +1,7 @@
+This is an ece in-house written toolbox.  It needs copied to the matlab toolbox directory
+and added to the bottom of the matlab default toolbox path.
+
+ee266 is for Randy Moss and he needs to test when we upgrade Matlab
+POWER is for the Power group, not sure it's even used anymore
+
+ecehelp@umr.edu
